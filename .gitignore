@@ -1,0 +1,25 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build directories
+bin/
+build/
+out/
+target/
+
+# Backup files
+*.bak
+*.tmp
