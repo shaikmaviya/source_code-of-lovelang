@@ -22,7 +22,7 @@ A cute and poetic programming language designed with love, where code reads like
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Love-Language.git
+git clone https://github.com/shaikmaviya/source_code-of-lovelang.git
 cd Love-Language
 ```
 
